@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 17 08:39:14 2020
 
-@author: Admin
+@author: Le boss d'Angers
 """
 
 import pandas as pd
